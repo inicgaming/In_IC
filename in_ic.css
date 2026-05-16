@@ -4,16 +4,19 @@
 }
 #main{
     background-color:#353e48;
+    list-style: none;
 }
 body{
     background: url(in_ic_Home.png) ;
     height: auto;
     width: auto;
+    list-style: none;
 }
 header{
     background-color: none;
     height: auto;
     width: auto;
+    list-style: none;
 }
 
 
@@ -143,6 +146,7 @@ header{
 }
 .top-m1-1{
     background-color: none;
+    list-style: none;
 }
 .baray{
     font-family: SELHAM;
@@ -151,11 +155,12 @@ header{
     height: 24.5px;
     float: inline-end;
     margin-right:0 ;
+    list-style: none;
 }
 .hame{
     font-family: SELHAM;
     color: #ffffff;
-    
+    list-style: none;
     width: 61.93px;
     height: 24.26px;
     float: inline-end;
@@ -177,6 +182,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m1-m3{
     width: 75px;
@@ -186,6 +192,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m1-m4{
     width: 75px;
@@ -195,6 +202,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m1-m1{
     width: 75px;
@@ -204,6 +212,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .top-m2{
     width: auto;
@@ -216,9 +225,11 @@ header{
     padding: 0;
     text-align: right;
     margin-top: 0;
+    list-style: none;
 }
 .top-m2-1{
     background-color: none;
+    list-style: none;
 }
 .baray{
     font-family: SELHAM;
@@ -227,6 +238,7 @@ header{
     height: 24.5px;
     float: inline-end;
     margin-right:0 ;
+    list-style: none;
 }
 .hame{
     font-family: SELHAM;
@@ -235,6 +247,7 @@ header{
     height: 24.5px;
     float: inline-end;
     text-decoration: none;
+    list-style: none;
 }
 .body-m2{
     width: auto;
@@ -243,6 +256,7 @@ header{
     grid-auto-flow: column;
     list-style: none;
     padding: 0;
+    list-style: none;
 }
 .m2-m2{
     width: 75px;
@@ -252,6 +266,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m2-m3{
     width: 75px;
@@ -261,6 +276,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m2-m4{
     width: 75px;
@@ -270,6 +286,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m2-m1{
     width: 75px;
@@ -279,6 +296,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .top-m3{
     width: auto;
@@ -291,9 +309,11 @@ header{
     padding: 0;
     text-align: right;
     margin-top: 0;
+    list-style: none;
 }
 .top-m3-1{
     background-color: none;
+    list-style: none;
 }
 .baray{
     font-family: SELHAM;
@@ -302,6 +322,7 @@ header{
     height: 24.5px;
     float: inline-end;
     margin-right:0 ;
+    list-style: none;
 }
 .hame{
     font-family: SELHAM;
@@ -310,6 +331,7 @@ header{
     height: 24.5px;
     float: inline-end;
     text-decoration: none;
+    list-style: none;
 }
 .body-m3{
     width: auto;
@@ -318,6 +340,7 @@ header{
     grid-auto-flow: column;
     list-style: none;
     padding: 0;
+    list-style: none;
 }
 .m3-m2{
     width: 75px;
@@ -327,6 +350,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m3-m3{
     width: 75px;
@@ -336,6 +360,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m3-m4{
     width: 75px;
@@ -345,6 +370,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m3-m1{
     width: 75px;
@@ -354,6 +380,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .top-m4{
     width: auto;
@@ -366,9 +393,11 @@ header{
     padding: 0;
     text-align: right;
     margin-top: 0;
+    list-style: none;
 }
 .top-m4-1{
     background-color: none;
+    list-style: none;
 }
 .baray{
     font-family: SELHAM;
@@ -377,6 +406,7 @@ header{
     height: 24.5px;
     float: inline-end;
     margin-right:0 ;
+    list-style: none;
 }
 .hame{
     font-family: SELHAM;
@@ -385,6 +415,7 @@ header{
     height: 24.5px;
     float: inline-end;
     text-decoration: none;
+    list-style: none;
 }
 .body-m4{
     width: auto;
@@ -393,6 +424,7 @@ header{
     grid-auto-flow: column;
     list-style: none;
     padding: 0;
+    list-style: none;
 }
 .m4-m2{
     width: 75px;
@@ -402,6 +434,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m4-m3{
     width: 75px;
@@ -411,6 +444,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m4-m4{
     width: 75px;
@@ -420,6 +454,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 .m4-m1{
     width: 75px;
@@ -429,6 +464,7 @@ header{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    list-style: none;
 }
 
 
@@ -440,6 +476,7 @@ header{
     height: 50px;
     background-color: #353e48;
     margin-top: 25px;
+    list-style: none;
 }
 .daste a{
     width: 140px;
@@ -454,6 +491,7 @@ header{
     text-align: center;
     font-size: 20pt;
     text-decoration: none;
+    list-style: none;
 }
 
 
@@ -465,6 +503,7 @@ footer{
     width: auto;
     background-color: #353e48;
     margin-top: 25px;
+    list-style: none;
 }
 .foot{
     color: #ffffff;
@@ -472,6 +511,7 @@ footer{
     font-size: 16pt;
     text-align: center;
     margin-top: 10px;
+    list-style: none;
 }
 .ma{
     color: #ffffff;
@@ -480,6 +520,7 @@ footer{
     padding-left: 10px;
     text-decoration: none;
     text-align: center;
+    list-style: none;
 }
 .tamas{
     color: #ffffff;
@@ -488,6 +529,7 @@ footer{
     padding-left: 10px;
     text-decoration: none;
     text-align: center;
+    list-style: none;
 }
 .khane{
     color: #ffffff;
@@ -496,36 +538,43 @@ footer{
     padding-left: 10px;
     text-decoration: none;
     text-align: center;
+    list-style: none;
 }
 .kharid{
     color: #ffffff;
     text-decoration: none;
     text-align: center;
+    list-style: none;
 }
 .logos{
     display: block;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
+    list-style: none;
 }
 .IN-IC img{
     width: 119px;
     height: 38px;
     margin-right: 30px;
     margin-bottom: 40px;
+    list-style: none;
 }
 .torob img{
     width: 55px;
     height: 56px;
     margin-right: 30px;
     margin-bottom: 28px;
+    list-style: none;
 
 }
 .nama img{
     width: 79.5px;
     height: 54px;
     margin-bottom: 21px;
+    list-style: none;
 }
 .Copyright{
     text-align: center;
+    list-style: none;
 }
